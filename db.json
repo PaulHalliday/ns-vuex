@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "name": "Code for 5 hours",
+      "projectId": 3,
+      "id": 6
+    },
+    {
+      "name": "Barbell Curls",
+      "projectId": 2,
+      "id": 7
+    }
+  ],
+  "projects": [
+    {
+      "name": "Groceries",
+      "id": 1
+    },
+    {
+      "name": "Gym",
+      "id": 2
+    },
+    {
+      "name": "Work",
+      "id": 3
+    }
+  ]
+}
